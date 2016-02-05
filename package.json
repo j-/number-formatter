@@ -4,7 +4,7 @@
   "description": "Lightweight & Fast JavaScript Number Formatter",
   "version": "1.1.8",
   "homepage": "http://mottie.github.com/javascript-number-formatter/",
-  "main": "lib/format.min.js",
+  "main": "lib/format.js",
   "demo": "https://github.com/Mottie/javascript-number-formatter/index.html",
   "repository": {
     "type": "git",
